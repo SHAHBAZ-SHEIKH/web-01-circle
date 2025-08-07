@@ -1,0 +1,41 @@
+
+
+/* * {
+    background-color: red;
+} */
+
+/* h1,h3{
+    background-color: aqua;
+    color: red;
+    font-size: 40px;
+}
+
+.box{
+    color: brown;
+}
+
+#unique{
+    background-color: orange;
+} */
+
+/* .parent > p > h1{
+    background-color: brown;
+} */
+
+/* .box > h1{
+    background-color: purple;
+}
+
+.child>{
+    background-color: cadetblue;
+    color: white;
+} */
+
+
+.box p{
+    background-color: brown;
+}
+
+h1~p{
+    color: red;
+}
